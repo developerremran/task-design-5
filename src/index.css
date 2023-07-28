@@ -1,0 +1,13 @@
+/* tailwind middleware */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainWidth{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.active-tab{
+    background-color: black;
+    color: white;
+}
